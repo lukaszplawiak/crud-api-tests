@@ -11,10 +11,6 @@ It's one of my first Spring project. I am learning simple CRUD and API programmi
 * Lombok 
 * H2 Database
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
 ## Status
 Project is: in progress
 
